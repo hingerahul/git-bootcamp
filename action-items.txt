@@ -1,0 +1,22 @@
+RahulAshruba.Hinge@transport.nsw.gov.au
+		06-02-2018
+1.Monitoring the unseen trips
+2.closed ME 13573
+3.Written document for loading slow
+4.Alert Monitoring Mechanism
+		07-02-2018
+1.Monitoring the unseen trips
+2.Write document for alert mechanism
+		08-02-2018
+1.ME 13769
+		,13771,13772 duplicate created problem ticket
+
+---Counts no of connection get/post when spike gets down 
+		09-02-2018
+			13798
+		12-02-2018
+	1.Alert Mechanism Documentation
+	2.13699
+		
+		13-02-2018
+	1.Documentation on alert Mechanism
